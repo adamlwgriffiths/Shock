@@ -8,4 +8,9 @@ It provides common utilities and cross-platform wrappers.
 
 I created Shock with the goal of creating a cross-platform library that didn't depend on any 3rd party libraries. I found Boost to be over-engineered; the existing stdlib to be horrible; C++0x to be lacking and not supported on older MSVC instances.
 
+Some areas of Shock we're in the middle of planning / development (assert, etc) and need to be removed. I plan to do
+this in the near future.
+
+I also have a Socket library that uses Shock that I will integrate and release soon.
+
 If you make use of this project, I'd love to hear about it, no matter how trivial =).
