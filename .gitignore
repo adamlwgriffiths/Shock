@@ -3,3 +3,4 @@
 *.a
 .DS_Store
 .metadata
+*.save
